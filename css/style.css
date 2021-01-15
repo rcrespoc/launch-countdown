@@ -45,6 +45,11 @@ body{
     height: 200px;
   }
 }
+@media screen and (min-width: 96rem){
+  .pattern-hill{
+    height: 300px;
+  }
+}
 
 /* -------------------- LAUNCH CONTENT -------------------- */
 .launch-content{
